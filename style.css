@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url("1049442.jpg");
+  background-image: url("./images/clear.jpg");
   height: 100vh;
   overflow: hidden;
   background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body {
 .app-main {
   width: 50vh;
   margin: 100px auto;
-  background-color: rgb(243, 222, 127);
+  background-color: rgba(0, 0, 0, 0.397);
   padding: 20px;
   text-align: center;
 }
